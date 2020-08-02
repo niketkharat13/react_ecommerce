@@ -1,0 +1,12 @@
+.product_img{
+    width: 100px;
+    height: 100px;
+}
+.table tr,
+.table tr td{
+    vertical-align: middle;
+}
+.table_head {
+    background-color: #2500ff9e;
+    color: #fff;
+}
